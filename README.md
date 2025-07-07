@@ -4,7 +4,6 @@ Bias detection, explainability, and mitigation in an AI hiring model.
 ## Files
 - `bias_detection_hiring_model.ipynb` – Full code with SHAP explanations, fairness metrics, and bias mitigation techniques.
 - `Bias_Report.pdf` – 2-page summary report
-- 
 ## Project Overview
 **Model Used**: Logistic Regression  
 **Sensitive Feature**: `Gender` (0 = Female, 1 = Male)  
